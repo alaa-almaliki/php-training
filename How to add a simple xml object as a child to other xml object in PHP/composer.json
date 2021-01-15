@@ -1,0 +1,23 @@
+{
+    "name": "alaa/php-training",
+    "description": "PHP Training",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alaa Al-Maliki",
+            "email": "alaa.almaliki@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-dom": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "": [
+                "app/code/"
+            ]
+        },
+        "files": [
+        ]
+    }
+}
