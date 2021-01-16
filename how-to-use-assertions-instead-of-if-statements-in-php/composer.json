@@ -1,0 +1,21 @@
+{
+    "name": "alaa/simple-xml",
+    "description": "project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alaa Al-Maliki",
+            "email": "alaa.almaliki@gmail.com"
+        }
+    ],
+    "require": {
+        "webmozart/assert": "^1.9"
+    },
+    "autoload": {
+        "psr-0": {
+            "": [
+                "app/code"
+            ]
+        }
+    }
+}
